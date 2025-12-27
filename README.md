@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Amit Kumar Sahani</h1>
+<h1 align="center">Hey 👋, Saurabh Gupta </h1>
 <h3 align="center">💻 A Passionate Full-Stack Developer from Gorakhpur, India 🇮🇳</h3>
 
 <p align="center">
@@ -28,7 +28,7 @@
 - 🌱 Currently learning **Data Structures & Algorithms (DSA)**
 - 🧠 Ask me about ** Mirco-services , system Design , React.js, Node.js, MongoDB, Firebase, Docker, AWS, Appwrite & more**
 - 📫 How to reach me: **amitsahani2322003@gmail.com**
-- 📄 [A bit my self ](https://www.notion.so/Shipping-Ideas-One-Commit-at-a-Time-1f4f671e825c80c5a3d6e7f552088fba?source=copy_link)
+- 📄 [A bit my self
 - ⚡ Fun Fact: *I love clean code... and bad jokes!*
 
 ---
@@ -45,11 +45,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amit-23-hub&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-23-hub&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabh-Gupta&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-23-hub&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=100rabh-Gupta&theme=tokyonight" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ### 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-23-hub&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=100rabh-Gupta&theme=tokyo-night" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amit-23-hub&theme=dracula&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=100rabh-Gupta&theme=dracula&row=2&column=4" />
 </p>
 
 ---
