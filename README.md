@@ -31,11 +31,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working as  **Backend Developer**
+- 🔭 I’m currently working as  **Frontend Developer**
 - 🌱 Currently learning **Data Structures & Algorithms (DSA)**
-- 🧠 Ask me about ** Mirco-services , system Design , React.js, Node.js, MongoDB, Firebase, Docker, AWS, Appwrite & more**
-- 📫 How to reach me: **amitsahani2322003@gmail.com**
-- 📄 [A bit my self
+- 🧠 Ask me about **   HTML5, CSS , Tailwin ,Javascript, React.js , SQL , Mysql,  & more**
+- 📫 How to reach me: **100rabhgupta8400@gmail.com**
 - ⚡ Fun Fact: *I love clean code... and bad jokes!*
 
 ---
