@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, Saurabh Gupta </h1>
+<h1 align="center">Hey 👋 I'm, Saurabh Gupta </h1>
 <h3 align="center">💻 A Passionate Full-Stack Developer from Gorakhpur, India 🇮🇳</h3>
 
 <p align="center">
@@ -6,18 +6,25 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/amit_sahani_19">
-    <img src="https://img.shields.io/twitter/follow/amit_sahani_19?logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/amit-kumar-sahani-849537246">
+
+  
+ 
+  <a href="https://linkedin.com/in/www.linkedin.com/in/100rabh-gupta">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/_.__i_sahani">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:amitsahani2322003@gmail.com">
+   </a>
+  <a href="mailto:100rabhgupta8400@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+   </a>
+  <a href="https://leetcode.com/u/100rabh_gupta/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/100rabh_.gupta/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+ 
+ 
+  
 </p>
 
 ---
