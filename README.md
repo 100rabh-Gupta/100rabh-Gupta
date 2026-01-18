@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm, Saurabh Gupta </h1>
-<h3 align="center">💻 A Passionate Full-Stack Developer from Lucknow, India 🇮🇳</h3>
+<h3 align="center">💻 A Passionate Frontend Developer from Lucknow, India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
@@ -50,7 +50,7 @@
 ### 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit-23-hub&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=100rabh-Gupta&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabh-Gupta&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
@@ -82,5 +82,5 @@
 > – Alan Kay
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Problem+Solver;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontendk+Web+Developer;Problem+Solver;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=45">
 </p>
