@@ -50,12 +50,12 @@
 ### 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=100rabh-Gupta&show_icons=true&theme=tokyonight" height="180"/> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabh-Gupta&layout=compact&theme=tokyonight" height="180"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=100rabh-Gupta&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabh-Gupta&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=100rabh-Gupta&theme=tokyonight" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=100rabh-Gupta&theme=tokyonight" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ### 📊 Activity Graph
 
 <p align="center">
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=100rabh-Gupta&theme=tokyo-night" /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=100rabh-Gupta&theme=tokyo-night" />
 </p>
 
 ---
